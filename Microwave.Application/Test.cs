@@ -8,5 +8,9 @@ namespace Microwave.Application
 {
     class Test
     {
+        public void DoNothing()
+        {
+            Console.WriteLine("Hej");
+        }
     }
 }
